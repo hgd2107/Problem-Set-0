@@ -1,4 +1,4 @@
 # Problem-Set-0
 
-Hayes Devaney
-hgd2107
+name: Hayes Devaney\n
+UNI: hgd2107
